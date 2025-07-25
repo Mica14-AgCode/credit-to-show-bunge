@@ -1,4 +1,4 @@
-# plataformacreditosagro2
+# Credit to Show Bunge
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
@@ -6,6 +6,8 @@
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/GChZshT6DMX)
 
 ## Overview
+
+Plataforma de análisis crediticio para Bunge - Credit to Show.
 
 This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
 Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
